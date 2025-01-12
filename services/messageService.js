@@ -1,4 +1,4 @@
-const Message = require ('../models/messageModel')
+const Message = require ('../models/messageModels')
 class MessageService{
 
     constructor(){}
